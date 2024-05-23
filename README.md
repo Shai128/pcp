@@ -29,6 +29,7 @@ git clone https://github.com/shai128/pcp.git
 
 ## Usage
 
+Please refer to [notebooks/PCP-example.ipynb](notebooks/PCP-example.ipynb) for basic usage. 
 
 ## Reproducible Research
 
