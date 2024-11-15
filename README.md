@@ -8,7 +8,7 @@ This package contains a Python implementation of Privileged Conforaml Prediction
 
 PCP is a method that constructs reliable prediction sets under the setting that the available data is corrupted.
 
-[1] Shai Feldman, Yaniv Romano, [“Robust Conformal Prediction Using Privileged Information.”](???) 2024.
+[1] Shai Feldman, Yaniv Romano, [“Robust Conformal Prediction Using Privileged Information.”](https://openreview.net/forum?id=kkmPe0rzY1&noteId=uWkstueMm8) 2024.
 
 
 ### Prerequisites
